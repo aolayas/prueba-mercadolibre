@@ -11,4 +11,4 @@ https://us-central1-prueba-mercado-libre.cloudfunctions.net/app/mutant
 ## Documentación API REST
 
 Se creó documentación en Postman con el fin de indicar el ingreso de datos correcto.
-https://documenter.getpostman.com/view/14340675/TW6uqpoD
+https://documenter.getpostman.com/view/14340675/TW6wJUTZ 
